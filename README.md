@@ -1,2 +1,3 @@
-# spez-empathy-web
-(Fork of "webogram" [https://github.com/zhukov/webogram]) Spez Empaty Web
+# Spez Empathy Web App
+
+Fork of [webogram (Telegram Web)](https://github.com/zhukov/webogram).
