@@ -14,7 +14,7 @@ ng\:form{display:block}
  * Config saved to config.json and https://gist.github.com/ef8b2e1e74a6ba7423f1
  */
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
-html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+html{font-family: 'Karla', sans-serif !important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
 body{margin:0}
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}
 audio,canvas,progress,video{display:inline-block;vertical-align:baseline}
