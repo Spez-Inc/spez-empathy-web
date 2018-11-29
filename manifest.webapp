@@ -1,12 +1,12 @@
 {
-  "name": "Telegram",
-  "description": "Telegram Web App.\nMore info & source code here: https://github.com/zhukov/webogram",
-  "version": "0.7.0",
+  "name": "Spez Empathy",
+  "description": "Spez Empathy",
+  "version": "1.0",
   "type": "privileged",
   "launch_path": "/index.html",
   "developer": {
-    "name": "Igor Zhukov",
-    "url": "https://github.com/zhukov"
+    "name": "Spez Inc.",
+    "url": "https://spezcomputer.weebly.com/"
   },
   "installs_allowed_from": [
     "*"
