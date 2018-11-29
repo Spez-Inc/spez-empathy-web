@@ -1,8 +1,8 @@
 {
-  "name": "Telegram",
-  "description": "Telegram Web App.\nMore info & source code here: https://github.com/zhukov/webogram",
-  "version": "0.7.0",
-  "short_name": "Telegram",
+  "name": "Spez Empathy",
+  "description": "Spez Empathy",
+  "version": "1.0",
+  "short_name": "Spez Empathy",
   "manifest_version": 2,
   "app": {
     "background": {
