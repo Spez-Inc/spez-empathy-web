@@ -61,5 +61,9 @@
       "id": "org.telegram.messenger",
       "url": "https://telegram.org/dl/android?ref=webmanifest"
     },
+	{
+      "platform": "itunes",
+      "url": "https://telegram.org/dl/ios?ref=webmanifest"
+    }
   ]
 }
