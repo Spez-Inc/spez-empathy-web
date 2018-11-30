@@ -1168,7 +1168,7 @@ button.toast-close-button{padding:0;cursor:pointer;background:0 0;border:0;-webk
 :not(.no-enter)#toast-container>div.ng-enter.ng-enter-active,:not(.no-leave)#toast-container>div.ng-leave{opacity:.8}
 :not(.no-enter)#toast-container>div.ng-enter,:not(.no-leave)#toast-container>div.ng-leave.ng-leave-active{opacity:0}
 html{background:#e7ebf0;overflow:visible}
-body{color:#000;background:0 0;font:12px/18px 'Open Sans',"Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;overflow:hidden}
+body{color:#000;background:0 0;overflow:hidden;font-family: 'Karla', sans-serif !important;}
 body.non_osx{font-family:'Karla', sans-serif;}
 h1,h2,h3,h4,h5{color:#222}
 .non_osx h4{font-size:17px}
