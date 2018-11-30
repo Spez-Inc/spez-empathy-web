@@ -535,7 +535,7 @@ angular.module('myApp.controllers', ['myApp.i18n'])
     // setTimeout($scope.openSettings, 1000)
 
     $scope.openFaq = function () {
-      var url = 'https://telegram.org/faq'
+      var url = 'faq'
       switch (Config.I18n.locale) {
         case 'es-es':
           url += '/es'

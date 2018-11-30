@@ -4048,7 +4048,7 @@ angular.module('myApp.services', ['myApp.i18n', 'izhukov.utils'])
 
       // FFOS Notification blob src bug workaround
       if (Config.Navigator.ffos && !Config.Navigator.ffos2p) {
-        data.image = 'https://telegram.org/img/t_logo.png'
+        data.image = 'img/t_logo.png'
       }
       else if (data.image && !angular.isString(data.image)) {
         if (Config.Navigator.ffos2p) {
