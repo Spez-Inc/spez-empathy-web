@@ -38,7 +38,7 @@ html {
   margin: 0;
 }
 .ios_standalone .tg_page_head .navbar > .container {
-  margin-top: 20px;
+  margin-top: 0px;
 }
 .tg_page_head .navbar > .container .navbar-brand {
   padding: 8px 15px;
